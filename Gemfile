@@ -9,6 +9,7 @@ gem 'rails', '~> 7.0.8'
 # Pdf libraries
 gem 'mini_magick'
 gem 'prawn'
+gem 'prawn-svg'
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem 'sprockets-rails'
